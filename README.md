@@ -1,4 +1,4 @@
 # GameDevelopment
-Game Development Projects and learnings docs
+Game Development and learnings docs
 
 learning docs are topics learned throughoought school, work and self learning
